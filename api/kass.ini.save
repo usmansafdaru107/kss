@@ -1,0 +1,4 @@
+host_name="localhost"
+username ="genie"
+database ="kass_db"
+password =""

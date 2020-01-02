@@ -1,0 +1,999 @@
+[29-Jul-2017 12:25:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:32:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admindbv123'@'ip-166-62-73-162.ip.secureserver.net' (using password: YES) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:33:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admindbv123'@'ip-166-62-73-162.ip.secureserver.net' (using password: YES) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:37:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:37:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:37:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:37:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:39:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:39:29 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:29 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:31 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:39:31 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:31 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:39:33 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:33 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:39:33 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:33 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:39:34 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:34 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:39:34 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:34 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:39:35 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:35 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:39:35 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:35 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:39:35 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:39:35 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:40:31 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:40:31 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:41:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:41:20 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:41:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:41:22 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:41:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:41:23 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:58:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:58:10 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:58:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:58:11 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:58:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:58:12 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:58:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:58:13 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 12:58:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://obsandogs.com' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 12:58:19 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 13:00:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 13:00:40 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 13:00:42 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 13:00:42 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 13:00:44 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 13:00:44 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 13:00:44 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 13:00:44 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 13:00:45 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 13:00:45 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 13:00:45 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 13:00:45 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 13:01:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 13:01:53 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 13:01:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 13:01:54 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 13:01:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 13:01:55 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 13:01:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 13:01:56 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 13:02:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/mydata2456/public_html/database/db.php on line 2
+[29-Jul-2017 13:02:52 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 3
+[29-Jul-2017 13:04:58 UTC] PHP Notice:  Undefined variable: db in /home/mydata2456/public_html/index.php on line 61
+[29-Jul-2017 13:04:58 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mydata2456/public_html/index.php on line 61
+[29-Jul-2017 13:04:58 UTC] PHP Notice:  Undefined variable: db in /home/mydata2456/public_html/index.php on line 62
+[29-Jul-2017 13:04:58 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mydata2456/public_html/index.php on line 62
+[29-Jul-2017 13:04:58 UTC] PHP Notice:  Undefined variable: db in /home/mydata2456/public_html/index.php on line 65
+[29-Jul-2017 13:04:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydata2456/public_html/index.php on line 65
+[29-Jul-2017 13:05:25 UTC] PHP Notice:  Undefined variable: db in /home/mydata2456/public_html/index.php on line 61
+[29-Jul-2017 13:05:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mydata2456/public_html/index.php on line 61
+[29-Jul-2017 13:05:25 UTC] PHP Notice:  Undefined variable: db in /home/mydata2456/public_html/index.php on line 62
+[29-Jul-2017 13:05:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mydata2456/public_html/index.php on line 62
+[29-Jul-2017 13:05:25 UTC] PHP Notice:  Undefined variable: db in /home/mydata2456/public_html/index.php on line 65
+[29-Jul-2017 13:05:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydata2456/public_html/index.php on line 65
+[29-Jul-2017 13:07:08 UTC] PHP Notice:  Undefined variable: db in /home/mydata2456/public_html/index.php on line 61
+[29-Jul-2017 13:07:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mydata2456/public_html/index.php on line 61
+[29-Jul-2017 13:07:08 UTC] PHP Notice:  Undefined variable: db in /home/mydata2456/public_html/index.php on line 62
+[29-Jul-2017 13:07:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mydata2456/public_html/index.php on line 62
+[29-Jul-2017 13:07:08 UTC] PHP Notice:  Undefined variable: db in /home/mydata2456/public_html/index.php on line 65
+[29-Jul-2017 13:07:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydata2456/public_html/index.php on line 65
+[29-Jul-2017 13:08:42 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:08:42 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:08:44 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:08:44 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:08:46 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:08:46 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:08:46 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:08:46 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:08:50 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:08:50 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:08:50 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:08:50 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:08:51 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:08:51 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:08:51 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:08:51 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:09:13 UTC] PHP Notice:  Undefined variable: conn in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:09:13 UTC] PHP Notice:  Trying to get property of non-object in /home/mydata2456/public_html/database/db.php on line 16
+[29-Jul-2017 13:15:16 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[29-Jul-2017 13:15:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/session.php on line 6
+[29-Jul-2017 13:15:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/welcome.php on line 15
+[29-Jul-2017 13:15:16 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 157
+[29-Jul-2017 13:15:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/welcome.php on line 163
+[29-Jul-2017 13:27:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/index.php on line 67
+[29-Jul-2017 13:27:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/index.php on line 67
+[29-Jul-2017 13:27:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/index.php on line 67
+[29-Jul-2017 13:27:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/index.php on line 67
+[29-Jul-2017 13:27:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/index.php on line 67
+[29-Jul-2017 13:31:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/index.php on line 67
+[29-Jul-2017 13:31:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/index.php on line 67
+[29-Jul-2017 13:31:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/index.php on line 67
+[29-Jul-2017 13:31:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/index.php on line 67
+[29-Jul-2017 13:31:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/index.php on line 67
+[29-Jul-2017 13:31:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/index.php on line 67
+[29-Jul-2017 13:40:04 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:40:04 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:40:04 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:40:04 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:40:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:40:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:40:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:40:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:40:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:40:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:40:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:40:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:40:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:40:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:40:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:40:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:43:09 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:44:14 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:53:12 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:53:29 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:54:58 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:55:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/index.php:139) in /home/mydata2456/public_html/index.php on line 163
+[29-Jul-2017 13:56:03 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 13:56:36 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 7
+[29-Jul-2017 13:56:36 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 9
+[29-Jul-2017 13:56:36 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 11
+[29-Jul-2017 14:01:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/index.php:139) in /home/mydata2456/public_html/index.php on line 163
+[29-Jul-2017 14:01:53 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 14:05:05 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 7
+[29-Jul-2017 14:05:05 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 9
+[29-Jul-2017 14:05:05 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 11
+[29-Jul-2017 15:00:30 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 15:02:11 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 15:03:24 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 15:03:35 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 15:04:39 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 15:58:41 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 21:34:01 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Jul-2017 21:41:17 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[29-Jul-2017 21:41:24 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[30-Jul-2017 03:47:38 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 7
+[30-Jul-2017 03:47:38 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 9
+[30-Jul-2017 03:47:38 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 11
+[30-Jul-2017 03:53:02 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[30-Jul-2017 03:53:02 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 157
+[30-Jul-2017 03:53:02 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 219
+[30-Jul-2017 03:53:07 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[30-Jul-2017 03:53:07 UTC] PHP Notice:  Undefined variable: pimage in /home/mydata2456/public_html/update.php on line 86
+[30-Jul-2017 03:53:07 UTC] PHP Notice:  Undefined variable: bimage in /home/mydata2456/public_html/update.php on line 113
+[30-Jul-2017 03:53:07 UTC] PHP Notice:  Undefined variable: fristname in /home/mydata2456/public_html/update.php on line 144
+[30-Jul-2017 03:53:07 UTC] PHP Notice:  Undefined variable: lastname in /home/mydata2456/public_html/update.php on line 167
+[30-Jul-2017 03:53:07 UTC] PHP Notice:  Undefined variable: email in /home/mydata2456/public_html/update.php on line 210
+[30-Jul-2017 03:53:07 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/update.php on line 232
+[30-Jul-2017 03:53:07 UTC] PHP Notice:  Undefined variable: yearfr in /home/mydata2456/public_html/update.php on line 233
+[30-Jul-2017 03:53:07 UTC] PHP Notice:  Undefined variable: yearto in /home/mydata2456/public_html/update.php on line 234
+[30-Jul-2017 03:53:07 UTC] PHP Notice:  Undefined variable: country in /home/mydata2456/public_html/update.php on line 277
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: status in /home/mydata2456/public_html/account.php on line 103
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: backimage in /home/mydata2456/public_html/account.php on line 104
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: image in /home/mydata2456/public_html/account.php on line 107
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: fristname in /home/mydata2456/public_html/account.php on line 122
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: lastname in /home/mydata2456/public_html/account.php on line 122
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: email in /home/mydata2456/public_html/account.php on line 123
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: country in /home/mydata2456/public_html/account.php on line 141
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: status in /home/mydata2456/public_html/account.php on line 143
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: about in /home/mydata2456/public_html/account.php on line 145
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[30-Jul-2017 03:53:09 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[30-Jul-2017 21:25:12 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[30-Jul-2017 21:32:14 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[30-Jul-2017 21:38:50 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[30-Jul-2017 21:43:12 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[30-Jul-2017 21:43:12 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 177
+[30-Jul-2017 22:38:53 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[30-Jul-2017 22:39:05 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[30-Jul-2017 22:39:26 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[31-Jul-2017 10:05:29 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[31-Jul-2017 10:05:29 UTC] PHP Notice:  Undefined variable: pimage in /home/mydata2456/public_html/update.php on line 86
+[31-Jul-2017 10:05:29 UTC] PHP Notice:  Undefined variable: bimage in /home/mydata2456/public_html/update.php on line 113
+[31-Jul-2017 10:05:29 UTC] PHP Notice:  Undefined variable: fristname in /home/mydata2456/public_html/update.php on line 144
+[31-Jul-2017 10:05:29 UTC] PHP Notice:  Undefined variable: lastname in /home/mydata2456/public_html/update.php on line 167
+[31-Jul-2017 10:05:29 UTC] PHP Notice:  Undefined variable: email in /home/mydata2456/public_html/update.php on line 210
+[31-Jul-2017 10:05:29 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/update.php on line 232
+[31-Jul-2017 10:05:29 UTC] PHP Notice:  Undefined variable: yearfr in /home/mydata2456/public_html/update.php on line 233
+[31-Jul-2017 10:05:29 UTC] PHP Notice:  Undefined variable: yearto in /home/mydata2456/public_html/update.php on line 234
+[31-Jul-2017 10:05:29 UTC] PHP Notice:  Undefined variable: country in /home/mydata2456/public_html/update.php on line 277
+[31-Jul-2017 10:06:02 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[31-Jul-2017 10:06:02 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 157
+[31-Jul-2017 10:06:02 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 219
+[31-Jul-2017 10:07:22 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[31-Jul-2017 10:15:09 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[31-Jul-2017 10:15:09 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 157
+[31-Jul-2017 10:15:09 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 219
+[31-Jul-2017 21:49:33 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[31-Jul-2017 21:50:23 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[31-Jul-2017 21:50:23 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 230
+[31-Jul-2017 21:50:23 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[31-Jul-2017 21:50:23 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 230
+[31-Jul-2017 21:58:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/mydata2456/public_html/database/db.php on line 2
+[31-Jul-2017 22:05:05 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/mydata2456/public_html/database/db.php on line 8
+[31-Jul-2017 22:06:17 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/mydata2456/public_html/database/db.php on line 8
+[31-Jul-2017 22:32:57 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[31-Jul-2017 22:33:17 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[31-Jul-2017 23:40:35 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[01-Aug-2017 05:18:03 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[01-Aug-2017 05:18:04 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[01-Aug-2017 05:23:17 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 7
+[01-Aug-2017 05:23:17 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 9
+[01-Aug-2017 05:23:17 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 11
+[01-Aug-2017 07:53:01 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: status in /home/mydata2456/public_html/account.php on line 103
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: backimage in /home/mydata2456/public_html/account.php on line 104
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: image in /home/mydata2456/public_html/account.php on line 107
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: fristname in /home/mydata2456/public_html/account.php on line 122
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: lastname in /home/mydata2456/public_html/account.php on line 122
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: email in /home/mydata2456/public_html/account.php on line 123
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: country in /home/mydata2456/public_html/account.php on line 141
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: status in /home/mydata2456/public_html/account.php on line 143
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: about in /home/mydata2456/public_html/account.php on line 145
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[01-Aug-2017 07:56:49 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 211
+[01-Aug-2017 07:56:51 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[01-Aug-2017 07:56:51 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 157
+[01-Aug-2017 07:56:51 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 219
+[01-Aug-2017 07:56:54 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[01-Aug-2017 07:58:17 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[01-Aug-2017 08:00:41 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[01-Aug-2017 08:00:41 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 230
+[01-Aug-2017 08:00:43 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[01-Aug-2017 08:00:45 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[01-Aug-2017 08:00:45 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 258
+[01-Aug-2017 08:00:45 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[01-Aug-2017 08:00:45 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 157
+[01-Aug-2017 08:00:45 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 219
+[01-Aug-2017 10:17:39 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[01-Aug-2017 12:01:30 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 7
+[01-Aug-2017 12:01:30 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 9
+[01-Aug-2017 12:01:30 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 11
+[01-Aug-2017 12:01:30 UTC] PHP Notice:  Undefined index: login_user in /home/mydata2456/public_html/action.php on line 15
+[01-Aug-2017 12:05:12 UTC] PHP Notice:  Undefined index: login_user in /home/mydata2456/public_html/photo.php on line 118
+[01-Aug-2017 12:11:29 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[01-Aug-2017 12:11:29 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[01-Aug-2017 13:31:01 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[01-Aug-2017 13:31:37 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[01-Aug-2017 13:31:37 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 258
+[01-Aug-2017 13:31:41 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[01-Aug-2017 18:55:31 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[01-Aug-2017 18:59:59 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[01-Aug-2017 18:59:59 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 258
+[01-Aug-2017 22:56:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:210) in /home/mydata2456/public_html/update.php on line 265
+[02-Aug-2017 05:47:57 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[02-Aug-2017 21:11:09 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[02-Aug-2017 21:15:04 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[03-Aug-2017 21:18:59 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[03-Aug-2017 21:19:06 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[03-Aug-2017 21:22:44 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 7
+[03-Aug-2017 21:22:44 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 9
+[03-Aug-2017 21:22:44 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 11
+[03-Aug-2017 21:43:56 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[03-Aug-2017 21:48:39 UTC] PHP Warning:  include(time.php): failed to open stream: No such file or directory in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:48:39 UTC] PHP Warning:  include(time.php): failed to open stream: No such file or directory in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:48:39 UTC] PHP Warning:  include(): Failed opening 'time.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:48:39 UTC] PHP Fatal error:  Call to undefined function convert_datetime() in /home/mydata2456/public_html/public.php on line 191
+[03-Aug-2017 21:48:47 UTC] PHP Warning:  include(time.php): failed to open stream: No such file or directory in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:48:47 UTC] PHP Warning:  include(time.php): failed to open stream: No such file or directory in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:48:47 UTC] PHP Warning:  include(): Failed opening 'time.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:48:47 UTC] PHP Fatal error:  Call to undefined function convert_datetime() in /home/mydata2456/public_html/public.php on line 191
+[03-Aug-2017 21:49:20 UTC] PHP Warning:  include(time.php): failed to open stream: No such file or directory in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:49:20 UTC] PHP Warning:  include(time.php): failed to open stream: No such file or directory in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:49:20 UTC] PHP Warning:  include(): Failed opening 'time.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:49:20 UTC] PHP Fatal error:  Call to undefined function convert_datetime() in /home/mydata2456/public_html/public.php on line 191
+[03-Aug-2017 21:49:47 UTC] PHP Warning:  include(time.php): failed to open stream: No such file or directory in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:49:47 UTC] PHP Warning:  include(time.php): failed to open stream: No such file or directory in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:49:47 UTC] PHP Warning:  include(): Failed opening 'time.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:49:47 UTC] PHP Fatal error:  Call to undefined function convert_datetime() in /home/mydata2456/public_html/public.php on line 191
+[03-Aug-2017 21:51:20 UTC] PHP Warning:  include(time.php): failed to open stream: No such file or directory in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:51:20 UTC] PHP Warning:  include(time.php): failed to open stream: No such file or directory in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:51:20 UTC] PHP Warning:  include(): Failed opening 'time.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:51:20 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/public.php on line 154
+[03-Aug-2017 21:51:20 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/public.php on line 155
+[03-Aug-2017 21:51:20 UTC] PHP Fatal error:  Call to undefined function convert_datetime() in /home/mydata2456/public_html/public.php on line 191
+[03-Aug-2017 21:51:35 UTC] PHP Warning:  include(time.php): failed to open stream: No such file or directory in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:51:35 UTC] PHP Warning:  include(time.php): failed to open stream: No such file or directory in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:51:35 UTC] PHP Warning:  include(): Failed opening 'time.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:51:35 UTC] PHP Fatal error:  Call to undefined function convert_datetime() in /home/mydata2456/public_html/public.php on line 191
+[03-Aug-2017 21:52:31 UTC] PHP Warning:  include(time.php): failed to open stream: No such file or directory in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:52:31 UTC] PHP Warning:  include(time.php): failed to open stream: No such file or directory in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:52:31 UTC] PHP Warning:  include(): Failed opening 'time.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/mydata2456/public_html/public.php on line 26
+[03-Aug-2017 21:52:31 UTC] PHP Fatal error:  Call to undefined function convert_datetime() in /home/mydata2456/public_html/public.php on line 191
+[03-Aug-2017 21:55:11 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[03-Aug-2017 22:10:48 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 7
+[03-Aug-2017 22:10:48 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 9
+[03-Aug-2017 22:10:48 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 11
+[03-Aug-2017 22:11:36 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 7
+[03-Aug-2017 22:11:36 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 9
+[03-Aug-2017 22:11:36 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 11
+[03-Aug-2017 22:12:03 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 7
+[03-Aug-2017 22:12:03 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 9
+[03-Aug-2017 22:12:03 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 11
+[03-Aug-2017 22:14:01 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 7
+[03-Aug-2017 22:14:01 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 9
+[03-Aug-2017 22:14:01 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 11
+[03-Aug-2017 22:14:32 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 7
+[03-Aug-2017 22:14:32 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 9
+[03-Aug-2017 22:14:32 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 11
+[03-Aug-2017 22:20:46 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 7
+[03-Aug-2017 22:20:46 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 9
+[03-Aug-2017 22:20:46 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 11
+[03-Aug-2017 22:38:31 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 7
+[03-Aug-2017 22:38:31 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 9
+[03-Aug-2017 22:38:31 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/action.php on line 11
+[03-Aug-2017 23:47:31 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[04-Aug-2017 01:01:35 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[04-Aug-2017 01:29:07 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: backimage in /home/mydata2456/public_html/account.php on line 37
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: status in /home/mydata2456/public_html/account.php on line 88
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: name in /home/mydata2456/public_html/account.php on line 89
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/account.php on line 90
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: fristname in /home/mydata2456/public_html/account.php on line 99
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: lastname in /home/mydata2456/public_html/account.php on line 99
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: email in /home/mydata2456/public_html/account.php on line 100
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: country in /home/mydata2456/public_html/account.php on line 118
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: status in /home/mydata2456/public_html/account.php on line 119
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: about in /home/mydata2456/public_html/account.php on line 120
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 02:05:42 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 08:59:44 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[04-Aug-2017 18:15:06 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[04-Aug-2017 20:22:29 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[04-Aug-2017 20:24:00 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[04-Aug-2017 20:24:22 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[04-Aug-2017 20:35:14 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[04-Aug-2017 20:35:17 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[04-Aug-2017 20:35:17 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 75
+[04-Aug-2017 20:35:17 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 137
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: backimage in /home/mydata2456/public_html/account.php on line 37
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: status in /home/mydata2456/public_html/account.php on line 88
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: name in /home/mydata2456/public_html/account.php on line 89
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/account.php on line 90
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: fristname in /home/mydata2456/public_html/account.php on line 99
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: lastname in /home/mydata2456/public_html/account.php on line 99
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: email in /home/mydata2456/public_html/account.php on line 100
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: country in /home/mydata2456/public_html/account.php on line 118
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: status in /home/mydata2456/public_html/account.php on line 119
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: about in /home/mydata2456/public_html/account.php on line 120
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 20:35:20 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[04-Aug-2017 20:35:21 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[04-Aug-2017 20:35:21 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 69
+[04-Aug-2017 20:35:21 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 131
+[04-Aug-2017 22:07:39 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[04-Aug-2017 22:08:40 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[04-Aug-2017 22:41:03 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[04-Aug-2017 22:41:03 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 69
+[04-Aug-2017 22:41:03 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 131
+[04-Aug-2017 22:49:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[05-Aug-2017 00:00:51 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[05-Aug-2017 00:03:00 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[05-Aug-2017 00:03:20 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[05-Aug-2017 00:04:02 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: backimage in /home/mydata2456/public_html/account.php on line 37
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: status in /home/mydata2456/public_html/account.php on line 88
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: name in /home/mydata2456/public_html/account.php on line 89
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/account.php on line 90
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: fristname in /home/mydata2456/public_html/account.php on line 99
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: lastname in /home/mydata2456/public_html/account.php on line 99
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: email in /home/mydata2456/public_html/account.php on line 100
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: country in /home/mydata2456/public_html/account.php on line 118
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: status in /home/mydata2456/public_html/account.php on line 119
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: about in /home/mydata2456/public_html/account.php on line 120
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 00:05:44 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 00:05:45 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[05-Aug-2017 00:05:45 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 69
+[05-Aug-2017 00:05:45 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 131
+[05-Aug-2017 04:39:09 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[05-Aug-2017 04:39:09 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[05-Aug-2017 04:39:10 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[05-Aug-2017 04:39:10 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 69
+[05-Aug-2017 04:39:10 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 131
+[05-Aug-2017 04:39:44 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[05-Aug-2017 04:39:45 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[05-Aug-2017 04:39:45 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 69
+[05-Aug-2017 04:39:45 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 131
+[05-Aug-2017 04:41:12 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[05-Aug-2017 04:42:47 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[05-Aug-2017 04:54:53 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[05-Aug-2017 04:54:53 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 76
+[05-Aug-2017 04:54:53 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 139
+[05-Aug-2017 06:28:33 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: backimage in /home/mydata2456/public_html/account.php on line 37
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: status in /home/mydata2456/public_html/account.php on line 88
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: name in /home/mydata2456/public_html/account.php on line 89
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/account.php on line 90
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: fristname in /home/mydata2456/public_html/account.php on line 99
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: lastname in /home/mydata2456/public_html/account.php on line 99
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: email in /home/mydata2456/public_html/account.php on line 100
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: country in /home/mydata2456/public_html/account.php on line 118
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: status in /home/mydata2456/public_html/account.php on line 119
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: about in /home/mydata2456/public_html/account.php on line 120
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 22:04:11 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 224
+[05-Aug-2017 22:04:50 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[06-Aug-2017 11:31:02 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[06-Aug-2017 11:31:02 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 76
+[06-Aug-2017 11:31:02 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 139
+[06-Aug-2017 11:31:34 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[06-Aug-2017 11:39:20 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[06-Aug-2017 11:39:20 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 76
+[06-Aug-2017 11:39:20 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 139
+[07-Aug-2017 13:15:09 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[07-Aug-2017 13:21:04 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[08-Aug-2017 10:31:18 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[08-Aug-2017 10:31:18 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 69
+[08-Aug-2017 10:31:18 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 131
+[08-Aug-2017 21:35:18 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[09-Aug-2017 09:19:01 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[09-Aug-2017 09:41:53 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[09-Aug-2017 10:13:02 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[09-Aug-2017 10:13:33 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[09-Aug-2017 10:30:38 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[09-Aug-2017 19:21:58 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[09-Aug-2017 21:23:33 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[09-Aug-2017 21:24:40 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[10-Aug-2017 07:50:19 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[10-Aug-2017 21:12:32 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[11-Aug-2017 12:21:56 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[13-Aug-2017 19:47:11 UTC] PHP Notice:  Undefined index: login_user in /home/mydata2456/public_html/action.php on line 8
+[13-Aug-2017 19:48:43 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[13-Aug-2017 19:49:03 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[14-Aug-2017 08:22:51 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[14-Aug-2017 09:38:42 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[14-Aug-2017 09:38:42 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 75
+[14-Aug-2017 09:38:42 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 137
+[14-Aug-2017 09:38:57 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 54
+[18-Aug-2017 08:52:21 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[18-Aug-2017 08:52:26 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[18-Aug-2017 08:52:29 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[18-Aug-2017 08:52:32 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[18-Aug-2017 08:52:37 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[18-Aug-2017 08:52:42 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[18-Aug-2017 08:52:46 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[18-Aug-2017 22:10:44 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[18-Aug-2017 23:15:38 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[19-Aug-2017 01:30:27 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[19-Aug-2017 09:17:36 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[19-Aug-2017 09:17:36 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 106
+[19-Aug-2017 09:17:36 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 168
+[19-Aug-2017 09:18:09 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[19-Aug-2017 21:47:16 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[19-Aug-2017 21:48:23 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/public.php on line 187
+[19-Aug-2017 21:48:23 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/public.php on line 188
+[20-Aug-2017 21:19:33 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[20-Aug-2017 21:35:57 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[20-Aug-2017 21:38:17 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/public.php on line 187
+[20-Aug-2017 21:38:17 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/public.php on line 188
+[21-Aug-2017 06:27:53 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[21-Aug-2017 06:30:39 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[21-Aug-2017 06:32:04 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[21-Aug-2017 06:32:04 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 98
+[21-Aug-2017 06:32:04 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 161
+[22-Aug-2017 08:33:47 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[22-Aug-2017 08:33:47 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 98
+[22-Aug-2017 08:33:47 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 161
+[22-Aug-2017 08:34:11 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[22-Aug-2017 08:38:37 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[22-Aug-2017 08:38:48 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[22-Aug-2017 08:39:01 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[22-Aug-2017 08:39:05 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[22-Aug-2017 09:20:17 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[22-Aug-2017 09:21:11 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[22-Aug-2017 09:27:09 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[22-Aug-2017 09:27:09 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 98
+[22-Aug-2017 09:27:09 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 161
+[22-Aug-2017 09:28:49 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[22-Aug-2017 09:28:49 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 98
+[22-Aug-2017 09:28:49 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 161
+[22-Aug-2017 16:35:17 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[22-Aug-2017 16:52:42 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[22-Aug-2017 16:54:09 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[22-Aug-2017 17:03:15 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[22-Aug-2017 17:03:15 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 98
+[22-Aug-2017 17:03:15 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 161
+[22-Aug-2017 17:04:04 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[22-Aug-2017 17:04:04 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 98
+[22-Aug-2017 17:04:04 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 161
+[22-Aug-2017 17:04:15 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[22-Aug-2017 17:04:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:166) in /home/mydata2456/public_html/update.php on line 173
+[22-Aug-2017 17:04:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:166) in /home/mydata2456/public_html/update.php on line 196
+[22-Aug-2017 17:05:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:166) in /home/mydata2456/public_html/update.php on line 196
+[22-Aug-2017 17:05:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:166) in /home/mydata2456/public_html/update.php on line 239
+[22-Aug-2017 17:08:47 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[22-Aug-2017 17:13:21 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[22-Aug-2017 17:14:37 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[22-Aug-2017 17:14:37 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 98
+[22-Aug-2017 17:14:37 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 161
+[22-Aug-2017 17:19:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/reg.php on line 18
+[22-Aug-2017 17:19:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/reg.php on line 18
+[22-Aug-2017 17:19:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/reg.php on line 18
+[22-Aug-2017 17:19:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/reg.php on line 18
+[22-Aug-2017 17:19:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/reg.php on line 18
+[22-Aug-2017 17:19:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mydata2456/public_html/reg.php on line 18
+[22-Aug-2017 17:19:30 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[22-Aug-2017 17:21:40 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 28
+[22-Aug-2017 17:21:40 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:21:40 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:21:40 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:21:40 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:21:40 UTC] PHP Warning:  mktime() expects parameter 1 to be long, string given in /home/mydata2456/public_html/photos.php on line 31
+[22-Aug-2017 17:22:01 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 28
+[22-Aug-2017 17:22:01 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:22:01 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:22:01 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:22:01 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:22:01 UTC] PHP Warning:  mktime() expects parameter 1 to be long, string given in /home/mydata2456/public_html/photos.php on line 31
+[22-Aug-2017 17:22:11 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 28
+[22-Aug-2017 17:22:11 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:22:11 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:22:11 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:22:11 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:22:11 UTC] PHP Warning:  mktime() expects parameter 1 to be long, string given in /home/mydata2456/public_html/photos.php on line 31
+[22-Aug-2017 17:22:20 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 28
+[22-Aug-2017 17:22:20 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:22:20 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:22:20 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:22:20 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:22:20 UTC] PHP Warning:  mktime() expects parameter 1 to be long, string given in /home/mydata2456/public_html/photos.php on line 31
+[22-Aug-2017 17:22:29 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 28
+[22-Aug-2017 17:22:29 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:22:29 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:22:29 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:22:29 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:22:29 UTC] PHP Warning:  mktime() expects parameter 1 to be long, string given in /home/mydata2456/public_html/photos.php on line 31
+[22-Aug-2017 17:22:43 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 28
+[22-Aug-2017 17:22:43 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:22:43 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:22:43 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:22:43 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:22:43 UTC] PHP Warning:  mktime() expects parameter 1 to be long, string given in /home/mydata2456/public_html/photos.php on line 31
+[22-Aug-2017 17:22:51 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 28
+[22-Aug-2017 17:22:51 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:22:51 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:22:51 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:22:51 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:22:51 UTC] PHP Warning:  mktime() expects parameter 1 to be long, string given in /home/mydata2456/public_html/photos.php on line 31
+[22-Aug-2017 17:23:47 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 28
+[22-Aug-2017 17:23:47 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:23:47 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:23:47 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:23:47 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:23:47 UTC] PHP Warning:  mktime() expects parameter 1 to be long, string given in /home/mydata2456/public_html/photos.php on line 31
+[22-Aug-2017 17:24:09 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 28
+[22-Aug-2017 17:24:09 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:24:09 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 29
+[22-Aug-2017 17:24:09 UTC] PHP Notice:  Undefined offset: 2 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:24:09 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/photos.php on line 30
+[22-Aug-2017 17:24:09 UTC] PHP Warning:  mktime() expects parameter 1 to be long, string given in /home/mydata2456/public_html/photos.php on line 31
+[22-Aug-2017 17:25:26 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[22-Aug-2017 17:46:35 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[22-Aug-2017 17:46:35 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 106
+[22-Aug-2017 17:46:35 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 168
+[22-Aug-2017 22:39:38 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[22-Aug-2017 22:40:25 UTC] PHP Notice:  Undefined variable: prof in /home/mydata2456/public_html/school.php on line 107
+[22-Aug-2017 22:45:21 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[23-Aug-2017 22:21:29 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[23-Aug-2017 22:23:38 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[24-Aug-2017 08:50:56 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[24-Aug-2017 15:35:38 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[24-Aug-2017 15:35:38 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 108
+[24-Aug-2017 15:35:38 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 175
+[24-Aug-2017 15:35:55 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[24-Aug-2017 15:57:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[24-Aug-2017 16:24:52 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[24-Aug-2017 21:05:30 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[24-Aug-2017 21:33:38 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[24-Aug-2017 21:33:38 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[24-Aug-2017 21:33:38 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 179
+[25-Aug-2017 08:02:10 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[25-Aug-2017 08:02:10 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 106
+[25-Aug-2017 08:02:10 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 172
+[25-Aug-2017 08:02:13 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[25-Aug-2017 08:02:13 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 106
+[25-Aug-2017 08:02:13 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 172
+[25-Aug-2017 08:02:26 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[25-Aug-2017 08:02:27 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[25-Aug-2017 08:02:27 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[25-Aug-2017 08:02:27 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 179
+[25-Aug-2017 08:02:52 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[25-Aug-2017 08:02:53 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[25-Aug-2017 08:02:53 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[25-Aug-2017 08:02:53 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 179
+[25-Aug-2017 21:27:41 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[25-Aug-2017 21:35:14 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[25-Aug-2017 21:40:24 UTC] PHP Notice:  Undefined variable: school in /home/mydata2456/public_html/school.php on line 46
+[25-Aug-2017 22:18:55 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 09:21:09 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 12:20:15 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 12:29:38 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 12:31:27 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 12:44:41 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 12:49:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 13:01:40 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/public.php on line 191
+[26-Aug-2017 13:01:40 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/public.php on line 192
+[26-Aug-2017 13:04:05 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/public.php on line 191
+[26-Aug-2017 13:04:05 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/public.php on line 192
+[26-Aug-2017 13:38:42 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 13:51:59 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[26-Aug-2017 15:12:19 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: backimage in /home/mydata2456/public_html/account.php on line 37
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: name in /home/mydata2456/public_html/account.php on line 118
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/account.php on line 119
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: fristname in /home/mydata2456/public_html/account.php on line 128
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: lastname in /home/mydata2456/public_html/account.php on line 128
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: email in /home/mydata2456/public_html/account.php on line 129
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: country in /home/mydata2456/public_html/account.php on line 147
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: status in /home/mydata2456/public_html/account.php on line 148
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: about in /home/mydata2456/public_html/account.php on line 149
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:56 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 252
+[26-Aug-2017 15:13:57 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[26-Aug-2017 15:13:57 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[26-Aug-2017 15:13:57 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 185
+[26-Aug-2017 18:34:10 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[26-Aug-2017 18:34:10 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[26-Aug-2017 18:34:10 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 185
+[26-Aug-2017 18:34:39 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 20:20:58 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 20:24:21 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 20:25:39 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 20:27:11 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 21:23:32 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 21:24:43 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[26-Aug-2017 21:38:10 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/public.php on line 191
+[26-Aug-2017 21:38:10 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/public.php on line 192
+[26-Aug-2017 21:39:03 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/public.php on line 191
+[26-Aug-2017 21:39:03 UTC] PHP Notice:  Undefined index: video in /home/mydata2456/public_html/public.php on line 192
+[26-Aug-2017 22:00:20 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[27-Aug-2017 00:44:42 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[27-Aug-2017 00:44:42 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[27-Aug-2017 00:44:42 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 185
+[27-Aug-2017 23:05:28 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[28-Aug-2017 09:01:56 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[28-Aug-2017 09:28:36 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[28-Aug-2017 11:55:35 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[28-Aug-2017 11:58:02 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 11:58:13 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 11:58:16 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 11:58:17 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 11:58:25 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 12:16:59 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 12:16:59 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/setting.php on line 99
+[28-Aug-2017 12:17:00 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 12:17:00 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/setting.php on line 99
+[28-Aug-2017 12:17:01 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 12:17:01 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[28-Aug-2017 12:17:01 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 185
+[28-Aug-2017 12:17:03 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 12:17:03 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 108
+[28-Aug-2017 12:17:03 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 175
+[28-Aug-2017 12:17:05 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 12:17:05 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 106
+[28-Aug-2017 12:17:05 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 172
+[28-Aug-2017 12:17:06 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 12:17:06 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[28-Aug-2017 12:17:06 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 185
+[28-Aug-2017 12:17:07 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 12:17:08 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 12:17:08 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[28-Aug-2017 12:17:08 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 185
+[28-Aug-2017 12:17:09 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 12:17:09 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[28-Aug-2017 12:17:09 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 185
+[28-Aug-2017 12:17:09 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 12:17:09 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[28-Aug-2017 12:17:09 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 185
+[28-Aug-2017 12:17:09 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 12:17:09 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[28-Aug-2017 12:17:09 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 185
+[28-Aug-2017 12:17:10 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 12:17:10 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[28-Aug-2017 12:17:10 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 185
+[28-Aug-2017 12:17:16 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 12:17:16 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 12:17:16 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/schoolpage.php on line 100
+[28-Aug-2017 14:18:49 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[28-Aug-2017 14:22:05 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[28-Aug-2017 21:55:43 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[28-Aug-2017 21:55:43 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[28-Aug-2017 21:55:43 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 185
+[28-Aug-2017 21:56:15 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Aug-2017 00:18:15 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Aug-2017 00:20:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:199) in /home/mydata2456/public_html/update.php on line 272
+[29-Aug-2017 00:20:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:199) in /home/mydata2456/public_html/update.php on line 272
+[29-Aug-2017 00:23:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:199) in /home/mydata2456/public_html/update.php on line 360
+[29-Aug-2017 00:23:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:199) in /home/mydata2456/public_html/update.php on line 360
+[29-Aug-2017 00:25:04 UTC] PHP Notice:  Undefined index: about in /home/mydata2456/public_html/update.php on line 376
+[29-Aug-2017 00:25:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:199) in /home/mydata2456/public_html/update.php on line 381
+[29-Aug-2017 00:25:09 UTC] PHP Notice:  Undefined index: about in /home/mydata2456/public_html/update.php on line 376
+[29-Aug-2017 00:25:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:199) in /home/mydata2456/public_html/update.php on line 381
+[29-Aug-2017 00:25:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:199) in /home/mydata2456/public_html/update.php on line 251
+[29-Aug-2017 00:26:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:195) in /home/mydata2456/public_html/update.php on line 251
+[29-Aug-2017 00:28:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:199) in /home/mydata2456/public_html/update.php on line 251
+[29-Aug-2017 00:28:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:195) in /home/mydata2456/public_html/update.php on line 251
+[29-Aug-2017 00:29:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:199) in /home/mydata2456/public_html/update.php on line 229
+[29-Aug-2017 00:30:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:199) in /home/mydata2456/public_html/update.php on line 229
+[29-Aug-2017 00:31:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:199) in /home/mydata2456/public_html/update.php on line 229
+[29-Aug-2017 12:41:24 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[29-Aug-2017 12:41:24 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[29-Aug-2017 12:41:24 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 185
+[29-Aug-2017 12:42:04 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Aug-2017 18:56:29 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[29-Aug-2017 19:08:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:195) in /home/mydata2456/public_html/update.php on line 316
+[29-Aug-2017 21:03:05 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[29-Aug-2017 21:03:05 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[29-Aug-2017 21:03:05 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 185
+[29-Aug-2017 21:04:41 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[30-Aug-2017 21:01:20 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[31-Aug-2017 11:11:20 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[31-Aug-2017 11:11:21 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[31-Aug-2017 16:50:28 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[31-Aug-2017 16:50:28 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 111
+[31-Aug-2017 16:50:28 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 185
+[31-Aug-2017 16:54:28 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[31-Aug-2017 21:05:23 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[31-Aug-2017 21:44:07 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[02-Sep-2017 10:46:02 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[02-Sep-2017 10:52:59 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[02-Sep-2017 21:28:37 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[02-Sep-2017 21:37:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/photo.php:133) in /home/mydata2456/public_html/photo.php on line 156
+[02-Sep-2017 21:38:00 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[02-Sep-2017 21:39:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/photo.php:133) in /home/mydata2456/public_html/photo.php on line 156
+[02-Sep-2017 22:17:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/photo.php:133) in /home/mydata2456/public_html/photo.php on line 156
+[02-Sep-2017 22:47:49 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[02-Sep-2017 22:48:27 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[02-Sep-2017 22:49:29 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[02-Sep-2017 22:53:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/photo.php:133) in /home/mydata2456/public_html/photo.php on line 156
+[03-Sep-2017 13:45:42 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[03-Sep-2017 13:45:42 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 126
+[03-Sep-2017 13:45:42 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 195
+[03-Sep-2017 13:46:00 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[03-Sep-2017 13:54:46 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[03-Sep-2017 14:00:29 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[03-Sep-2017 14:06:04 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[03-Sep-2017 14:06:04 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 126
+[03-Sep-2017 14:06:04 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 195
+[03-Sep-2017 21:14:40 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[04-Sep-2017 13:51:59 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[04-Sep-2017 13:51:59 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 126
+[04-Sep-2017 13:51:59 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 195
+[04-Sep-2017 13:52:41 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[04-Sep-2017 13:59:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:199) in /home/mydata2456/public_html/update.php on line 360
+[04-Sep-2017 20:56:15 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[04-Sep-2017 21:19:19 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[04-Sep-2017 21:25:12 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[04-Sep-2017 21:26:59 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[04-Sep-2017 21:26:59 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 126
+[04-Sep-2017 21:26:59 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 195
+[04-Sep-2017 21:27:29 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[04-Sep-2017 21:29:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/photo.php:133) in /home/mydata2456/public_html/photo.php on line 156
+[04-Sep-2017 22:25:13 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[04-Sep-2017 22:25:13 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 126
+[04-Sep-2017 22:25:13 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 195
+[05-Sep-2017 21:33:01 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[05-Sep-2017 21:37:48 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[06-Sep-2017 13:46:29 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[06-Sep-2017 13:46:29 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 126
+[06-Sep-2017 13:46:29 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 195
+[06-Sep-2017 13:48:33 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[06-Sep-2017 14:00:04 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[06-Sep-2017 15:32:54 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[06-Sep-2017 15:33:28 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[06-Sep-2017 15:36:39 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[06-Sep-2017 15:37:58 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[06-Sep-2017 15:39:13 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[07-Sep-2017 10:08:33 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[10-Sep-2017 21:48:32 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[13-Sep-2017 06:27:46 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[15-Sep-2017 11:05:07 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[15-Sep-2017 11:05:07 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 107
+[15-Sep-2017 11:05:07 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 173
+[15-Sep-2017 19:07:51 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[15-Sep-2017 19:07:51 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 127
+[15-Sep-2017 19:07:51 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 196
+[15-Sep-2017 19:08:44 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[16-Sep-2017 06:57:24 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[16-Sep-2017 07:39:22 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[16-Sep-2017 11:54:58 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/site/index.php on line 69
+[19-Sep-2017 08:16:13 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[19-Sep-2017 08:19:40 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[19-Sep-2017 08:48:16 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[19-Sep-2017 08:48:18 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[19-Sep-2017 08:52:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/photo.php:134) in /home/mydata2456/public_html/photo.php on line 157
+[19-Sep-2017 08:52:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/photo.php:134) in /home/mydata2456/public_html/photo.php on line 157
+[19-Sep-2017 09:39:01 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[19-Sep-2017 09:39:02 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[19-Sep-2017 09:39:02 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 127
+[19-Sep-2017 09:39:02 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 196
+[19-Sep-2017 09:39:18 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[19-Sep-2017 09:39:18 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 108
+[19-Sep-2017 09:39:18 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/public.php on line 175
+[19-Sep-2017 09:39:18 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[19-Sep-2017 09:39:18 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 127
+[19-Sep-2017 09:39:18 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 196
+[19-Sep-2017 09:40:19 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[19-Sep-2017 09:40:19 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 127
+[19-Sep-2017 09:40:19 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 196
+[19-Sep-2017 21:34:55 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[20-Sep-2017 07:24:49 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[20-Sep-2017 09:47:44 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[22-Sep-2017 22:23:13 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[22-Sep-2017 23:10:56 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[22-Sep-2017 23:37:09 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[23-Sep-2017 00:09:39 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[23-Sep-2017 00:09:39 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 124
+[23-Sep-2017 00:09:39 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 194
+[23-Sep-2017 00:09:54 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[23-Sep-2017 00:11:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:168) in /home/mydata2456/public_html/update.php on line 273
+[23-Sep-2017 00:11:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydata2456/public_html/update.php:168) in /home/mydata2456/public_html/update.php on line 273
+[24-Sep-2017 23:25:54 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[28-Sep-2017 06:33:41 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[01-Oct-2017 19:44:01 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[01-Oct-2017 19:44:01 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 107
+[01-Oct-2017 19:44:01 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/testimony.php on line 173
+[08-Oct-2017 19:14:41 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[08-Oct-2017 19:14:41 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 124
+[08-Oct-2017 19:14:41 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/welcome.php on line 194
+[08-Oct-2017 19:14:52 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[08-Oct-2017 19:14:52 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[13-Oct-2017 05:22:44 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[13-Oct-2017 07:28:24 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[13-Oct-2017 07:28:24 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/setting.php on line 100
+[13-Oct-2017 07:28:59 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined index: user_id in /home/mydata2456/public_html/session.php on line 4
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: backimage in /home/mydata2456/public_html/account.php on line 37
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: name in /home/mydata2456/public_html/account.php on line 119
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: profimage in /home/mydata2456/public_html/account.php on line 120
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: fristname in /home/mydata2456/public_html/account.php on line 129
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: lastname in /home/mydata2456/public_html/account.php on line 129
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: email in /home/mydata2456/public_html/account.php on line 130
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: country in /home/mydata2456/public_html/account.php on line 148
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: status in /home/mydata2456/public_html/account.php on line 149
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: about in /home/mydata2456/public_html/account.php on line 150
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[16-Oct-2017 09:09:39 UTC] PHP Notice:  Undefined variable: schools in /home/mydata2456/public_html/account.php on line 253
+[18-Oct-2017 21:39:47 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[18-Oct-2017 22:09:04 UTC] PHP Notice:  Undefined index: username in /home/mydata2456/public_html/index.php on line 69
+[18-Oct-2017 22:48:44 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/welcome.php on line 630
+[18-Oct-2017 22:48:44 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/welcome.php on line 631
+[18-Oct-2017 22:49:21 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/welcome.php on line 630
+[18-Oct-2017 22:49:21 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/welcome.php on line 631
+[18-Oct-2017 22:58:16 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/welcome.php on line 630
+[18-Oct-2017 22:58:16 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/welcome.php on line 631
+[18-Oct-2017 22:58:48 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/welcome.php on line 630
+[18-Oct-2017 22:58:48 UTC] PHP Notice:  Undefined offset: 1 in /home/mydata2456/public_html/welcome.php on line 631

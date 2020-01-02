@@ -1,0 +1,18 @@
+add quiz
+
+//add quiz
+POST - /quiz
+		Required fields=topic(topic id),quizName(name of the quiz)
+		You should be logged in as either contributor or super admin
+
+//edit quiz
+POST  -	/quiz/edit/:quiz_id
+		Required fields=topic(topic id),quizName(name of the quiz)
+		You should be logged in as either contributor or super admin
+
+GET  -	/quiz/id- gets quiz with a particular id
+		quiz/topic/topic_id -gets quizes of a particular topic
+		quiz/theme/theme_id -gets quizes of a particular theme
+
+GET 	/quiz/delete/id
+		deletes quiz of a particular ID

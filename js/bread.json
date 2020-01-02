@@ -1,0 +1,35 @@
+{
+	"class":{
+			"link":"classes.php"
+			},	
+	"subject":{
+			"link":"subjects.php",
+			"id":"",
+			"class_name":""
+			},
+	"unit":{
+			"link":"units.php",
+			"id":"",
+			"subject_name":""
+			},
+	"topic":{
+			"link":"topics.php",
+			"id":"",
+			"unit_name":""
+			},
+	"lesson":{
+			"link":"lesson.php",
+			"id":"",
+			"topic_name":""
+			},
+	"slide":{
+			"link":"slide.php",
+			"id":"",
+			"lesson_name":""
+			},
+	"activity":{
+			"link":"activity.php",
+			"id":"",
+			"lesson_name":""
+			}
+}

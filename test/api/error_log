@@ -1,0 +1,6 @@
+[25-Sep-2016 13:52:43 UTC] PHP Fatal error:  Class 'Slim\Middleware' not found in /home/kampalas/public_html/test/api/Slim/Middleware/Flash.php on line 48
+[25-Sep-2016 13:52:43 UTC] PHP Fatal error:  Class 'Slim\Middleware' not found in /home/kampalas/public_html/test/api/Slim/Middleware/Flash.php on line 48
+[25-Sep-2016 13:52:48 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/kampalas/public_html/test/api/Slim/Slim.php on line 974
+[25-Sep-2016 13:52:59 UTC] PHP Fatal error:  Class 'Slim\Http\Request' not found in /home/kampalas/public_html/test/api/Slim/Slim.php on line 485
+[25-Sep-2016 13:52:59 UTC] PHP Fatal error:  Class 'Slim\Http\Request' not found in /home/kampalas/public_html/test/api/Slim/Slim.php on line 485
+[25-Sep-2016 13:52:59 UTC] PHP Fatal error:  Class 'Slim\Http\Request' not found in /home/kampalas/public_html/test/api/Slim/Slim.php on line 485
