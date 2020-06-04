@@ -22,7 +22,7 @@
 			<br>
 			<p class="para-blue"><b>a)	The Web-based Application (online)</b></p>
 			<p>
-				Our new easy to use interactive web application offers lessons and assessment activities in all the main subjects from Primary One to Primary Seven.  What better way to inspire a love of learning than through digital lessons? Children can access over 1000 high quality lessons on their computers and continue learning no matter where they are
+				The new easy to use interactive web application offers lessons and assessment activities in all the main subjects from Primary One to Primary Seven.  What better way to inspire a love of learning than through digital lessons? Children can access over 1000 high quality lessons on their computers and continue learning no matter where they are
 			</p>
 			
 			<br>
