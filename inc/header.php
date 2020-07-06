@@ -100,13 +100,13 @@
 		   ?>
 		   
 		   <li class="programsPage"> 
-			<a href="#programs" data-toggle="modal" data-target="#programsModal">Programs</a>
+			<a href="index.php#contact-section" > Smart Tutor </a>
 		   </li>
 		   <li> 
-			<a href="#download" data-toggle="modal" data-target="#downloadModal">Apps</a>
+			<!-- <a href="#download" data-toggle="modal" data-target="#downloadModal">Apps</a> -->
 		   </li>
 		   <li> 
-			<a href="#help" data-toggle="modal" data-target="#helpModal">Help</a>
+			<!-- <a href="#help" data-toggle="modal" data-target="#helpModal">Help</a> -->
 		   </li>
 		   <li> 
 		   <li class="" style='width:auto;'> 
