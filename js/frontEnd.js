@@ -36,6 +36,24 @@
 			});
 
 		});
+		
+		
+		$('.register').click(function () {
+			$('.loginPanel').fadeOut(function () {
+
+				$('.registerPanel').fadeIn(function () {
+
+					$('.goTologin').click(function () {
+						$('.registerPanel').fadeOut(function () {
+
+							$('.loginPanel').fadeIn();
+						});
+
+					});
+				});
+			});
+
+		});
 
 		$('.tryDemo').click(function (e) {
 			e.preventDefault();
