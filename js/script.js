@@ -82,7 +82,7 @@
    	  // stop timer 
    	  clearInterval(timer);
    	  // then started again timer
-   	  timer=setInterval(autoPlay,5000);
+   	  timer=setInterval(autoPlay,10000);
    }
  
   
@@ -91,7 +91,7 @@
       updateCircleIndicator();
   }
 
-  let timer=setInterval(autoPlay,5000);
+  let timer=setInterval(autoPlay,10000);
 
 
  
