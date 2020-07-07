@@ -73,7 +73,7 @@ if (isset($_POST['qualifi']) && isset($_POST['subject']) && isset($_POST['email'
 
     $stmt->execute();
 
-    echo '<div class="alert alert-success" role="alert" > Your Information has been sent. Please wait ! We will come back to you. </div>';
+    echo '<div class="alert alert-success" role="alert" > Thank you for applying, we will contact you shortly. </div>';
 
     $stmt->close();
     $conn->close();
