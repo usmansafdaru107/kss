@@ -2318,7 +2318,6 @@ background: #0575e6 !important;  }
 
 @media screen and (max-width: 406px){
 	.sb-c2{
-		margin-top: 0.4rem !important;
-		background-color: #bb2e24 !important;
+		margin-top: 0.4rem !important;		
 	}
 }
