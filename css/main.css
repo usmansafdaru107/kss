@@ -162,7 +162,7 @@ body {
 	width: 25px;
 	height: 25px;
 	color: #ffffff;
-	background-color: #3f3e3d;
+	/* background-color: #3f3e3d; */
 	border-radius: 50%;
 	text-align: center;
 	line-height: 25px;
@@ -170,7 +170,7 @@ body {
 }
 
 .home .indicator div.active {
-	background-color: #000;
+	/* background-color: #000; */
 }
 
 /*responsive*/
