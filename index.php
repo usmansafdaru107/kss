@@ -65,9 +65,9 @@ session_start();
 </head>
 <body>
 	<!-- Page Preloder -->
-	<div id="preloder">
+	<!-- <div id="preloder">
 		<div class="loader"></div> 
- 	</div>
+ 	</div> -->
 
 	<!-- Header section -->
 	<header class="header-section clearfix">
@@ -77,8 +77,8 @@ session_start();
 
 		<div class="header-right">
 			<div class="user-panel">
-				<a data-target="#accountPop" data-toggle="modal" class="login acc">Login</a>
-				<a data-target="#accountPop" data-toggle="modal" class="register"  >Create an account</a>
+				<a data-target="#accountPop" data-toggle="modal" class="login acc"  style="cursor: pointer;">Login</a>
+				<a data-target="#accountPop" data-toggle="modal" class="register"  style="cursor: pointer;">Create an account</a>
 			</div> 
 		</div>
 		<ul class="main-menu">
@@ -92,10 +92,9 @@ session_start();
 	</header>
 	<!-- Header section end -->
 
-
     <!-- slider -->
     <section class="home">
-		<div class="slider">
+		<div class="slider" >
 			<div class="slide">
 				<div class="container">
 					<div class="caption">
@@ -107,8 +106,8 @@ session_start();
 							from kindergarten through high school with distinctive
 							pathways in non-traditional learning environments.
 						</p>
-						<a data-target="#accountPop" data-toggle="modal" class="site-btn register" >Register Now</a>
-						<a data-target="#accountPop" data-toggle="modal" class="site-btn" style="padding: 10px !important" >Already Member</a>
+						<a data-target="#accountPop" data-toggle="modal" style="background-color: blue !important" class="site-btn register" >Register Now</a>
+						<a data-target="#accountPop" data-toggle="modal" class="site-btn" style="padding: 10px !important; background-color: blue !important" >Already Member</a>
 					</div>
 				</div>
 			</div>
@@ -122,8 +121,8 @@ session_start();
 							educational experience, centered on our one-to-one approach:
 							one student and one teacher.
 						</p>
-						<a data-target="#accountPop" data-toggle="modal" class="site-btn register" >Register Now</a>
-						<a data-target="#accountPop" data-toggle="modal" class="site-btn sb-c2" style="padding: 10px !important">Already Member</a>
+						<a data-target="#accountPop" data-toggle="modal" class="site-btn register" style="background-color: blue !important">Register Now</a>
+						<a data-target="#accountPop" data-toggle="modal" class="site-btn sb-c2" style="padding: 10px !important; background-color: blue !important">Already Member</a>
 
 					</div>
 				</div>
@@ -141,8 +140,8 @@ session_start();
 							innovative education model centered on competency-based
 							learning.
 						</p>
-						<a data-target="#accountPop" data-toggle="modal" class="site-btn register" >Register Now</a>
-						<a data-target="#accountPop" data-toggle="modal" class="site-btn sb-c2" style="padding: 10px !important">Already Member</a>
+						<a data-target="#accountPop" data-toggle="modal" class="site-btn register" style="background-color: blue !important">Register Now</a>
+						<a data-target="#accountPop" data-toggle="modal" class="site-btn sb-c2" style="padding: 10px !important; background-color: blue !important">Already Member</a>
 
 					</div>
 				</div>
@@ -157,7 +156,7 @@ session_start();
 		</div>
 
 		<!-- indicators -->
-		<div class="indicator">
+		<!-- <div class="indicator"> -->
 		
 	</section>
     <!-- slider close -->
@@ -196,7 +195,7 @@ session_start();
             	<div class="icon d-flex justify-content-center align-items-center">
 				<span><i class="fa fa-lightbulb-o" aria-hidden="true"></i></span>
 				</div>
-              <div class="media-body py-md-4">
+              <div class="media-body values py-md-4">
                 <h3>Innovation</h3>
                 <p>We imagine, create, devise and design.</p>
               </div>
@@ -208,7 +207,7 @@ session_start();
             	<div class="icon d-flex justify-content-center align-items-center">
 				<span><i class="fa fa-search-plus" aria-hidden="true"></i></span>
 				</div>
-              <div class="media-body py-md-4">
+              <div class="media-body  values  py-md-4">
                 <h3 class="hea-3">Curiosity</h3>
                 <p class="p-3">We are lifelong learners.</p>
               </div>
@@ -219,8 +218,8 @@ session_start();
             	<div class="icon d-flex justify-content-center align-items-center">
 				<span><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 				</div>
-              <div class="media-body py-md-4">
-                <h3 class="hea-31">Grit</h3>
+              <div class="media-body values py-md-4">
+                <h3 class="hea-31  ">Grit</h3>
                 <p class="p-31">We don’t quit.</p>
               </div>
             </div>      
@@ -230,7 +229,7 @@ session_start();
             	<div class="icon d-flex justify-content-center align-items-center">
 				<span><i class="fa fa-plus-square" aria-hidden="true"></i></span>
 				</div>
-              <div class="media-body py-md-4">
+              <div class="media-body py-md-4 values ">
                 <h3>Empathy</h3>
                 <p>We seek to understand before we judge.</p>
               </div>
@@ -242,7 +241,7 @@ session_start();
             	<div class="icon d-flex justify-content-center align-items-center">
 				<span><i class="fa fa-flask" aria-hidden="true"></i></span>
 				</div>
-              <div class="media-body py-md-4">
+              <div class="media-body py-md-4 values ">
                 <h3>Experiential</h3>
                 <p>We apply knowledge in a real-world context.</p>
               </div>
@@ -253,7 +252,7 @@ session_start();
             	<div class="icon d-flex justify-content-center align-items-center">
 				<span><i class="fa fa-check" aria-hidden="true"></i></span>
 				</div>
-              <div class="media-body py-md-4">
+              <div class="media-body py-md-4 values ">
                 <h3 class="hea-32">Accountability</h3>
                 <p class="p-32">We follow through on tasks.</p>
               </div>
@@ -342,9 +341,8 @@ session_start();
 					</ul>
 <p>
 
-					We prepare students for International Assessments such as IGCSE, SAT, IELTS, EDEXCEL, Cambridge AS & A Level
-				We will develop a flexible learning schedule that allows a student to take lessons at our Learning Lab or at home and recommend clubs for 
-				co-curricular programme. Our students sit for final Examinations with British Council Examination Centre as private candidates or any other 
+					We prepare students for International Assessments such as IGCSE, SAT, IELTS, EDEXCEL, Cambridge AS & A Level.
+				We will develop a flexible learning schedule that allows a student to take lessons at our Learning Lab or at home.Our students sit for final Examinations with British Council Examination Centre as private candidates with any other 
 				school that registers private candidates.</p>
 				</div>
 			</div>
@@ -387,9 +385,9 @@ session_start();
 						<h2>Online learning</h2>
 						<h3>Start a free trial now</h3>
 						<p style="color:#fff;font-size:18px;opacity:1;">Online learning delivers the same high-quality experience you'd expect from a traditional classroom but with a number of additional 
-							benefits.Sign up/Login to our Learning Application to access digital lessons from Primary one to Primary Seven 
+							benefits. Sign up/Login to our Learning Application to access digital lessons from Primary one to Primary Seven 
 							aligned to the Uganda Primary School Curriculum.</p>
-						<a href="index01.php#classesInList" class="site-btn" id="contact-section">Try it now</a>
+						<a data-target="#accountPop" data-toggle="modal" class="site-btn" id="contact-section">Try it now</a>
 					</div>
 				</div>
 				<div class="col-lg-6">
@@ -473,7 +471,7 @@ session_start();
                 <h2 class="text-center">BECOME A SMART TUTOR</h2>
             </p>
 			<span> 
-			  Teach your favorite subject. Register here.
+			  Teach your favourite subject. Register here.
 			</span>
 			<br><br>
 		
@@ -585,7 +583,7 @@ session_start();
 							<div class="footer-widget">
 								<h2>Legal</h2>
 								<ul>
-									<li><a class="privacy-sec" href="terms_of_use.php"> Term and Condition </a></li>
+									<li><a class="privacy-sec" href="terms_of_use.php"> Terms and Conditions </a></li>
 									<li><a class="privacy-sec" href="privacy_policy.php"> Privacy Statement </a></li>
 
 								</ul>
