@@ -22,7 +22,6 @@
 		<p class="pull-left">
 		Click on any of the Units below to continue.
 		</p>
-		
 		</div>
 		<br style="clear:both;">
 		
