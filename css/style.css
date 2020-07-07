@@ -2297,3 +2297,21 @@ background: #0575e6 !important;  }
     text-decoration: underline !important;
 }
 
+@media screen and (min-width: 650px) and (max-width: 762px){
+	.values{
+		width:  100% !important;
+	}
+	.values > h3, .values > p{
+		width: 100%;
+		text-align: center !important;
+		padding-left: 13rem !important;
+	}	
+
+	.values > .hea-3 , .values > .p-3 , .values > .hea-32 , .values > .p-32  {
+		padding-left: 21rem !important;
+	}
+	.values > .hea-31 , .values > .p-31{
+		padding-left:  25rem !important;
+	}
+	}
+}
