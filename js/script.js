@@ -24,11 +24,11 @@
     function circleIndicator(){
         for(let i=0; i< slides.length; i++){
         	const div=document.createElement("div");
-        	      div.innerHTML=i+1;
+        	    //   div.innerHTML=i+1;
                 div.setAttribute("onclick","indicateSlide(this)")
                 div.id=i;
                 if(i==0){
-                	div.className="active";
+                	// div.className="active";
                 }
                indicator.appendChild(div);
         }
@@ -82,7 +82,7 @@
    	  // stop timer 
    	  clearInterval(timer);
    	  // then started again timer
-   	  timer=setInterval(autoPlay,11000);
+   	  timer=setInterval(autoPlay,5000);
    }
  
   
@@ -91,7 +91,7 @@
       updateCircleIndicator();
   }
 
-  let timer=setInterval(autoPlay,11000);
+  let timer=setInterval(autoPlay,5000);
 
 
  
