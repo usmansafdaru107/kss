@@ -106,7 +106,7 @@ session_start();
 							from kindergarten through high school with distinctive
 							pathways in non-traditional learning environments.
 						</p>
-						<a data-target="#accountPop" data-toggle="modal" style="background-color: blue !important" class="site-btn register" >Register Now</a>
+						<a data-target="#accountPop" data-toggle="modal" class="site-btn register" >Register Now</a>
 						<a data-target="#accountPop" data-toggle="modal" class="site-btn" style="padding: 10px !important; background-color: blue !important" >Already Member</a>
 					</div>
 				</div>
@@ -121,7 +121,7 @@ session_start();
 							educational experience, centered on our one-to-one approach:
 							one student and one teacher.
 						</p>
-						<a data-target="#accountPop" data-toggle="modal" class="site-btn register" style="background-color: blue !important">Register Now</a>
+						<a data-target="#accountPop" data-toggle="modal" class="site-btn register">Register Now</a>
 						<a data-target="#accountPop" data-toggle="modal" class="site-btn sb-c2" style="padding: 10px !important; background-color: blue !important">Already Member</a>
 
 					</div>
@@ -140,7 +140,7 @@ session_start();
 							innovative education model centered on competency-based
 							learning.
 						</p>
-						<a data-target="#accountPop" data-toggle="modal" class="site-btn register" style="background-color: blue !important">Register Now</a>
+						<a data-target="#accountPop" data-toggle="modal" class="site-btn register">Register Now</a>
 						<a data-target="#accountPop" data-toggle="modal" class="site-btn sb-c2" style="padding: 10px !important; background-color: blue !important">Already Member</a>
 
 					</div>
@@ -156,7 +156,7 @@ session_start();
 		</div>
 
 		<!-- indicators -->
-		<!-- <div class="indicator"> -->
+		<div class="indicator">
 		
 	</section>
     <!-- slider close -->
@@ -342,7 +342,7 @@ session_start();
 <p>
 
 					We prepare students for International Assessments such as IGCSE, SAT, IELTS, EDEXCEL, Cambridge AS & A Level.
-				We will develop a flexible learning schedule that allows a student to take lessons at our Learning Lab or at home.Our students sit for final Examinations with British Council Examination Centre as private candidates with any other 
+				We will develop a flexible learning schedule that allows a student to take lessons at our Learning Lab or at home.Our students sit for final Examinations with British Council Examination Centre as private candidates or with any other 
 				school that registers private candidates.</p>
 				</div>
 			</div>
