@@ -61,7 +61,7 @@
 		   
 		   <div class="navbar-brand" style="">
 		   
-			 <a href="index.php"><img src="images/klc.png" style="height:40px; border-radius:0;"> &nbsp; Kampala Smart School</a> 
+			 <a href="index.php"><img src="img/logo.png" style="height:40px; border-radius:1rem;"> &nbsp; Kampala Smart School</a> 
 			
 			
 		  </div>
@@ -100,13 +100,14 @@
 		   ?>
 		   
 		   <li class="programsPage"> 
-			<a href="index.php#contact-section" > Smart Tutor </a>
+			<a href="#program" data-toggle="modal" data-target="#programsModal" > Program </a>
+			
 		   </li>
 		   <li> 
-			<!-- <a href="#download" data-toggle="modal" data-target="#downloadModal">Apps</a> -->
+			<a href="#download" data-toggle="modal" data-target="#downloadModal">Apps</a>
 		   </li>
 		   <li> 
-			<!-- <a href="#help" data-toggle="modal" data-target="#helpModal">Help</a> -->
+			<a href="#help" data-toggle="modal" data-target="#helpModal">Help</a>
 		   </li>
 		   <li> 
 		   <li class="" style='width:auto;'> 
