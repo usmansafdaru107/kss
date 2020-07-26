@@ -116,7 +116,19 @@ session_start();
 </div>
 
 	
+<!-- Bootstrap => JS, Popper.js, and jQuery -->
+<script src="js/jquery-3.2.1.min.js"></script>    
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.slicknav.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/mixitup.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/aos.js"></script>
+	<script src="js/scroll.js"></script>
+	<script src="js/script.js"></script>
+	<script async="" src="https://drv.tw/inc/wd.js"></script>
 
+	
 
 	
 
